@@ -263,8 +263,10 @@ You are free to use, modify, and distribute this project in accordance with the 
 # 👩‍💻 Author
 
 **Fatima Chakaron**
+**Chaza Aboulhosn**
+**Mariam Mahfouz**
 
-Fourth-Year Computer and Communication Engineering Student  
+Fourth-Year Computer and Communication Engineering Students  
 Islamic University of Lebanon (IUL)
 
 ### GitHub
