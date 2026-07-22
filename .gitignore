@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Secrets
+.env
+
+# Model Weights
+*.pt
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
